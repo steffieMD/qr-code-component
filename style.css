@@ -30,6 +30,8 @@ main {
   text-align: center;
   display: flex;
   flex-direction: column;
+  gap: 1.5rem;
+  box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
 }
 
 .qr-code {
@@ -47,7 +49,7 @@ h1 {
   font-style: normal;
   font-weight: 700;
   line-height: 120%;
-  margin: 1.5rem 0 1rem 0;
+  margin-bottom: 1rem;
 }
 
 p {
