@@ -44,3 +44,11 @@ p {
   font-size: 0.9375rem;
   color: hsl(216, 15%, 48%);
 }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
